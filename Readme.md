@@ -45,5 +45,16 @@ class based components
 After React -- Framework next.js , Gatsby
 
 
+ npm -->node package manager --> node package executer 
 
+older way but slower to install npx create-react-app 01basicreateapp
+npm create vite@latest
+
+## To use vite the best way is use npm create vite@latest
+
+
+strictmode is used for production 
+
+
+Component we are making write chapatilize named 
 
