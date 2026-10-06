@@ -58,3 +58,9 @@ strictmode is used for production
 
 Component we are making write chapatilize named 
 
+## WHAT IS RECONCILATION 
+
+## WHAT IS FIBRE 
+
+## WHAT IS Virtual DOM 
+
